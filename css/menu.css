@@ -1,0 +1,11 @@
+.jumbotron{
+  margin-top: 60px;
+}
+
+[role="menu"]{
+  cursor: pointer;
+}
+
+a#menu{
+  cursor: pointer;
+}

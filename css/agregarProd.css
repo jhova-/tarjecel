@@ -1,0 +1,12 @@
+canvas#imagenProd{
+  width: 495px;
+  height: 325px;
+}
+
+#imagenUp{
+  margin-top: 6px;
+}
+
+#btSave{
+  margin-left: 45%;
+}
